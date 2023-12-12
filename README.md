@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-<h1>
+## Basic Info and Favorite series
 ```
 {
   "firstName": "Wil",
